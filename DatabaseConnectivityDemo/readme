@@ -1,0 +1,3 @@
+The code demonstrates interface-based programming.
+By creating an interface (DatabaseConnectivity) for database connectivity and offering a concrete implementation (ConnectionClass) that complies with this interface.
+Different DatabaseConnectivity interface implementations can be interchanged and made flexible with this approach.
