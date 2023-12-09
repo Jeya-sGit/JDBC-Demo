@@ -1,3 +1,13 @@
+#1 DatabaseConnectivity.java|ConnectionClass.java|JdbcDemo.java
+
 The code demonstrates interface-based programming.
 By creating an interface (DatabaseConnectivity) for database connectivity and offering a concrete implementation (ConnectionClass) that complies with this interface.
 Different DatabaseConnectivity interface implementations can be interchanged and made flexible with this approach.
+
+
+
+#2 JDBCConnection.java|StaffDAO.java
+
+Created a simple JDBC example where I have a ConnectionClass that handles the database connection,
+and a StaffDAO class that extends ConnectionClass to perform a query to retrieve staff information.
+Overall, the code demonstrates a simple JDBC connection and query execution to fetch and display staff information from a database.
